@@ -25,4 +25,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: eaustin6/anast:latest
+          tags: eaustin6/anastyy:latest
